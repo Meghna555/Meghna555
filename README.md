@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-## **🔭 I’m currently working on **
+## 🚀 Backend Engineer (In Progress) | Ex-Frontend | IIT Roorkee Alum
+I’m a developer who started in frontend, now diving deep into backend engineering, system design, and data structures to build solid, scalable systems.
+
+## 🔭 I’m currently working on
 -  ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
