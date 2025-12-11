@@ -14,8 +14,8 @@ I’m a developer who started in frontend, now diving deep into backend engineer
 - Databases: MySQL
 - Tools: Git, GitHub, Postman, VS Code
 
-## 📫 How to reach me:
-[Google](https://google.com)
+## 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/meghna-raut)
 
 ## ⚡ Fun Fact
 If debugging is like being a detective, then coding is… probably what got me into the mess in the first place 😆
